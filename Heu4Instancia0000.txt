@@ -1,0 +1,31 @@
+Numero de Maquinas: m= 3
+Capacidade das Maquinas: 40 
+Numero de tarefas: n= 20
+Capacidade dos Veiculos: 182 
+Intervalos de entrega: 2 
+T0 = 24 T1 = 30 
+Veiculos: 
+v0 = 1 
+v1 = 1 
+
+Tarefas:
+Tarefa0: s = 36  R = 28 d = 31 p = 2 
+Tarefa1: s = 35  R = 96 d = 32 p = 6 
+Tarefa2: s = 5  R = 89 d = 34 p = 3 
+Tarefa3: s = 24  R = 17 d = 40 p = 4 
+Tarefa4: s = 25  R = 5 d = 28 p = 5 
+Tarefa5: s = 3  R = 32 d = 34 p = 3 
+Tarefa6: s = 3  R = 32 d = 34 p = 6 
+Tarefa7: s = 38  R = 81 d = 41 p = 1 
+Tarefa8: s = 36  R = 86 d = 31 p = 1 
+Tarefa9: s = 23  R = 46 d = 28 p = 5 
+Tarefa10: s = 39  R = 66 d = 42 p = 3 
+Tarefa11: s = 7  R = 52 d = 31 p = 2 
+Tarefa12: s = 18  R = 27 d = 25 p = 2 
+Tarefa13: s = 35  R = 42 d = 27 p = 6 
+Tarefa14: s = 11  R = 16 d = 29 p = 3 
+Tarefa15: s = 18  R = 21 d = 31 p = 5 
+Tarefa16: s = 4  R = 28 d = 41 p = 6 
+Tarefa17: s = 30  R = 10 d = 35 p = 2 
+Tarefa18: s = 26  R = 83 d = 24 p = 6 
+Tarefa19: s = 40  R = 81 d = 33 p = 2 
